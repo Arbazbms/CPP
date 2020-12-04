@@ -28,7 +28,7 @@ int main()
     cout << "enter no of cols" << endl;
     cin >> c;
 
-    //input
+    //input not working
     for (int i = 0; i < r; i++)
     {
         for (int j = 0; j < c; j++)
